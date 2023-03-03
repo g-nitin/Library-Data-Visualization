@@ -1,2 +1,2 @@
 # Library Data Visualization
- Data visualization for the library which started in spring 2022
+ Data visualization for the library at UofSC
